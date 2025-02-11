@@ -1,5 +1,6 @@
 using UnityEngine;
 using CodeMonkey.Utils;
+using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine.UIElements;
 
@@ -7,8 +8,8 @@ public class DrawMesh : MonoBehaviour
 {
     [SerializeField] private Transform debugVisual1;
     [SerializeField] private Transform debugVisual2;
+    
     private Mesh mesh;
-
     private Vector3 lastMousePosition;
 
     void Awake()
@@ -114,4 +115,6 @@ public class DrawMesh : MonoBehaviour
         }
             
     }
+
+    
 }
