@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barnbadrum_0: 3601448262654011911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 99552db3e8943c54290af63669dd4f75
+guid: a41e87129773ad24485b485e437ae928
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2937288509318990647
-    second: barnrum_0
+      213: -97651489324929731
+    second: barnrumskrivbord_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: barnrum_0
+      name: barnrumskrivbord_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 520
-        height: 280
+        width: 56
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c47437c9a7ac37d0800000000000000
-      internalID: -2937288509318990647
+      spriteID: d3deff2ec7215aef0800000000000000
+      internalID: -97651489324929731
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      barnrum_0: -2937288509318990647
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
