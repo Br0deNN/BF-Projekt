@@ -1,9 +1,12 @@
-using NUnit.Framework;
-using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine;
 
-public class Click : MonoBehaviour
+public class Questions : MonoBehaviour
 {
     [SerializeField] List<GameObject> questions = new List<GameObject>();
 
+    public void ShowQuestions()
+    {
+
+    }
 }
