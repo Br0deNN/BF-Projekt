@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      thumb-down-emoticon-vector-42706231_0: 6428110483104786859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
