@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pyjamas set_0: 3180332364478773615
+      pyjamas set_1: -742599287761797282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

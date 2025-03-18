@@ -5187,7 +5187,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 545.04, y: 283.83}
+  m_AnchoredPosition: {x: 519, y: 219}
   m_SizeDelta: {x: 829.925, y: 219.473}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1969489802
@@ -5214,8 +5214,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: d992de84ef279e046a222a2cd60a2a85, type: 2}
-  m_sharedMaterial: {fileID: 5273340580940008220, guid: d992de84ef279e046a222a2cd60a2a85, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
+  m_sharedMaterial: {fileID: -6167452272410245273, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5239,7 +5239,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 219.45
+  m_fontSize: 206.1
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5247,7 +5247,7 @@ MonoBehaviour:
   m_fontSizeMax: 500
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -5447,7 +5447,7 @@ PrefabInstance:
     - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_fontAsset
       value: 
-      objectReference: {fileID: 11400000, guid: d992de84ef279e046a222a2cd60a2a85, type: 2}
+      objectReference: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
     - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_fontStyle
       value: 1
@@ -5467,7 +5467,7 @@ PrefabInstance:
     - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_sharedMaterial
       value: 
-      objectReference: {fileID: 5273340580940008220, guid: d992de84ef279e046a222a2cd60a2a85, type: 2}
+      objectReference: {fileID: -6167452272410245273, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
     - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_fontColor32.rgba
       value: 4278190080

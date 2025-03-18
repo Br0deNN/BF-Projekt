@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e3df035247a1bba44be3ce0059157a29
+guid: 8213ee90019f85545a15c16b25b56b02
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Seven Moon
+  - Bubbleboddy Neue Trial
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

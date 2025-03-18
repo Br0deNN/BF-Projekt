@@ -309,7 +309,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "KLICKA P\xC5 TRIANGELN"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -375,7 +375,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &24787443
@@ -920,7 +920,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "VILKEN BOLL \xC4R MINST?"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -986,7 +986,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &69702897
@@ -1056,7 +1056,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "KLICKA P\xC5 CIRKELN"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1122,7 +1122,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &93242044
@@ -1192,7 +1192,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "G\xC5 VIDARE"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1258,7 +1258,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &101544066
@@ -2878,7 +2878,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "VILKEN BOLL \xC4R ST\xD6RST?"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2944,7 +2944,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &487902391
@@ -3391,7 +3391,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "V\xC4LJ F\xC4RGEN LILA"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3457,7 +3457,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &779054107
@@ -3923,7 +3923,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "VILKEN \xC4R LJUSAST?"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3989,7 +3989,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &910680532
@@ -4613,7 +4613,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "V\xC4LJ F\xC4RGEN R\xD6D"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4679,7 +4679,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1010402670
@@ -4749,7 +4749,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "F\xD6RS\xD6K IGEN"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4815,7 +4815,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1021384175
@@ -5281,7 +5281,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "KLICKA P\xC5 KVADRATEN"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5347,7 +5347,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1165897360
@@ -7139,7 +7139,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "VILKEN \xC4R M\xD6RKAST?"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: e5f3793fe964c394183b07f24014d1a1, type: 2}
   m_sharedMaterial: {fileID: 7069928585447232313, guid: cc572cc7bff9e9e4dacf4116762cf51d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7205,7 +7205,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &2145530865
