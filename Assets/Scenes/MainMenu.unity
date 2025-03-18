@@ -5210,10 +5210,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Spel Titel
+  m_text: 'Spel titel
+
+'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 7488edd6dca7b694d88f873bb4781433, type: 2}
-  m_sharedMaterial: {fileID: -318125319085620436, guid: 7488edd6dca7b694d88f873bb4781433, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d992de84ef279e046a222a2cd60a2a85, type: 2}
+  m_sharedMaterial: {fileID: 5273340580940008220, guid: d992de84ef279e046a222a2cd60a2a85, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5237,7 +5239,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 172.8
+  m_fontSize: 219.45
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5443,6 +5445,10 @@ PrefabInstance:
       value: Starta
       objectReference: {fileID: 0}
     - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: d992de84ef279e046a222a2cd60a2a85, type: 2}
+    - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_fontStyle
       value: 1
       objectReference: {fileID: 0}
@@ -5459,8 +5465,16 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5273340580940008220, guid: d992de84ef279e046a222a2cd60a2a85, type: 2}
+    - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_fontColor32.rgba
       value: 4278190080
+      objectReference: {fileID: 0}
+    - target: {fileID: 4089206235118277684, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
