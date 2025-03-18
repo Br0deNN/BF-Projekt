@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barnrumskrivbord_0: -97651489324929731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

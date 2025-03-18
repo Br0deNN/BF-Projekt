@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: b7ee500a64f2b9243a94f1b43f8cfe9c
+guid: 3e464338b146e0348b3a40ea57cee450
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7445791690009982848
-    second: barnrumkudde_0
+      213: 3180332364478773615
+    second: pyjamas set_0
+  - first:
+      213: -742599287761797282
+    second: pyjamas set_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: barnrumkudde_0
+      name: pyjamas set_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 27
-        height: 30
+        x: 50
+        y: 1419
+        width: 2337
+        height: 1906
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 088466d48eb3ba890800000000000000
-      internalID: -7445791690009982848
+      spriteID: f697f647f6fc22c20800000000000000
+      internalID: 3180332364478773615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pyjamas set_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 246
+        width: 1233
+        height: 1724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fff7ad1e1c1b5f0800000000000000
+      internalID: -742599287761797282
       vertices: []
       indices: 
       edges: []
@@ -134,8 +159,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      barnrumkudde_0: -7445791690009982848
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

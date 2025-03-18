@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b7ee500a64f2b9243a94f1b43f8cfe9c
+guid: f98400b08e429564295fc6524260eb09
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7445791690009982848
-    second: barnrumkudde_0
+      213: 6348801551208851890
+    second: Nalle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: barnrumkudde_0
+      name: Nalle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 27
-        height: 30
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 088466d48eb3ba890800000000000000
-      internalID: -7445791690009982848
+      spriteID: 2b9a0499f597b1850800000000000000
+      internalID: 6348801551208851890
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      barnrumkudde_0: -7445791690009982848
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

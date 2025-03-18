@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      badkar_0: -1115123944002524923
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
