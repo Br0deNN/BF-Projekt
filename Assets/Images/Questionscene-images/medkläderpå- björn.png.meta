@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: b7ee500a64f2b9243a94f1b43f8cfe9c
+guid: 8f089e363df946d449e0596543ce9c6a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7445791690009982848
-    second: barnrumkudde_0
+      213: -7602709500588342626
+    second: "medkl\xE4derp\xE5- bj\xF6rn_0"
+  - first:
+      213: 181183909876861695
+    second: "medkl\xE4derp\xE5- bj\xF6rn_1"
+  - first:
+      213: 8661728498770291933
+    second: "medkl\xE4derp\xE5- bj\xF6rn_2"
+  - first:
+      213: 7631465929622432963
+    second: "medkl\xE4derp\xE5- bj\xF6rn_3"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: barnrumkudde_0
+      name: "medkl\xE4derp\xE5- bj\xF6rn_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 27
-        height: 30
+        x: 805
+        y: 1760
+        width: 219
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 088466d48eb3ba890800000000000000
-      internalID: -7445791690009982848
+      spriteID: e92c1f67dffbd7690800000000000000
+      internalID: -7602709500588342626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "medkl\xE4derp\xE5- bj\xF6rn_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 1024
+        height: 1263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa0a3b5ec1b38200800000000000000
+      internalID: 181183909876861695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "medkl\xE4derp\xE5- bj\xF6rn_2"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 112
+        width: 528
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddca4168d24a43870800000000000000
+      internalID: 8661728498770291933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "medkl\xE4derp\xE5- bj\xF6rn_3"
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc24aa64d968e960800000000000000
+      internalID: 7631465929622432963
       vertices: []
       indices: 
       edges: []
@@ -134,8 +209,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      barnrumkudde_0: -7445791690009982848
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
