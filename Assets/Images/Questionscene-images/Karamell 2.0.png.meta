@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 940d56c390cf5774aa08352cb55783ca
+guid: a6c6aa5f4acb03d45afb934e25942336
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9091776647930048853
-    second: "bj\xF6rnbrunchokladV2_0"
+      213: -8282044004211405795
+    second: Karamell 2.0_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "bj\xF6rnbrunchokladV2_0"
+      name: Karamell 2.0_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 854
+        x: 12
+        y: 18
+        width: 63
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 551ff05e0ba7c2e70800000000000000
-      internalID: 9091776647930048853
+      spriteID: d1c43dabbd4401d80800000000000000
+      internalID: -8282044004211405795
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      "bj\xF6rnbrunchokladV2_0": 9091776647930048853
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
