@@ -5068,7 +5068,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abc07d59e5372e741821914897ac5e4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Startscene: Question
+  Startscene: Bedroom
 --- !u!1 &869605571
 GameObject:
   m_ObjectHideFlags: 0
@@ -5239,7 +5239,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 206.1
+  m_fontSize: 205.2
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5485,11 +5485,23 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 814832174}
     - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 11500000, guid: abc07d59e5372e741821914897ac5e4e, type: 3}
+    - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
@@ -5498,6 +5510,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: MainMenu, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
       value: MainMenu, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 5012848641857077189, guid: e1aca59a0a5fbd0459582b3ce7fd1393, type: 3}
