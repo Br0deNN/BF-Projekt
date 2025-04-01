@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a20841e05afc70e45b992885c3f0e7d6
+guid: af61642efefa90445a4c3c9a1cbddd45
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 938679015047142160
-    second: citron 2.0_0
+      213: 4558545193625233932
+    second: jordgubbe 2.0_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: citron 2.0_0
+      name: jordgubbe 2.0_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 14
+        x: 19
+        y: 29
         width: 58
-        height: 40
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01b9ff1479bd60d00800000000000000
-      internalID: 938679015047142160
+      spriteID: c0aa89e83b4334f30800000000000000
+      internalID: 4558545193625233932
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      citron 2.0_0: 938679015047142160
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: de18dd80fd127364eb1ef287b67602cb
+guid: 7ca6929515b297743af1c3b49aa2bab9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7676640638448816447
-    second: chocklad 2.0_0
-  - first:
-      213: 7460442998422577157
-    second: chocklad 2.0_1
+      213: -3349901104467927768
+    second: Muffin 2.0_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,35 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chocklad 2.0_0
+      name: Muffin 2.0_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 32
-        width: 65
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f31d113fcf7e88a60800000000000000
-      internalID: 7676640638448816447
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chocklad 2.0_1
-      rect:
-        serializedVersion: 2
-        x: 50
+        x: 14
         y: 11
-        width: 34
-        height: 33
+        width: 78
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50027044161d88760800000000000000
-      internalID: 7460442998422577157
+      spriteID: 82d108ba1b2c281d0800000000000000
+      internalID: -3349901104467927768
       vertices: []
       indices: 
       edges: []
@@ -159,9 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      chocklad 2.0_0: 7676640638448816447
-      chocklad 2.0_1: 7460442998422577157
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

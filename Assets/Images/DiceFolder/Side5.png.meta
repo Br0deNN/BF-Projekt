@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 662f60ebbb8d4dc4e8f775447b494cac
+guid: 561e56c948790b94fbcf4c5e10262be7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4558545193625233932
-    second: jordgubbe 2.0_0
+      213: -1674614504560429765
+    second: Side5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: jordgubbe 2.0_0
+      name: Side5_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 29
-        width: 58
-        height: 42
+        x: 27
+        y: 8
+        width: 329
+        height: 329
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0aa89e83b4334f30800000000000000
-      internalID: 4558545193625233932
+      spriteID: b3575f70bf292c8e0800000000000000
+      internalID: -1674614504560429765
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      jordgubbe 2.0_0: 4558545193625233932
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

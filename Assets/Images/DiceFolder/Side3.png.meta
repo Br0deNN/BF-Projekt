@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a6c6aa5f4acb03d45afb934e25942336
+guid: 9c14ddad0258dbc48b4454945abea87e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8282044004211405795
-    second: Karamell 2.0_0
+      213: -4770422562420140344
+    second: Side3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Karamell 2.0_0
+      name: Side3_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 18
-        width: 63
-        height: 40
+        x: 27
+        y: 8
+        width: 329
+        height: 329
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1c43dabbd4401d80800000000000000
-      internalID: -8282044004211405795
+      spriteID: 8c6507a44fd0ccdb0800000000000000
+      internalID: -4770422562420140344
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Karamell 2.0_0: -8282044004211405795
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

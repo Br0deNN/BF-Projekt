@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 250328a175e0c0e48b750896359a7bec
+guid: 631666103afd29745b74f6a50ee10db0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2840531796247917695
-    second: prislapp 2.0_0
+      213: -8425465054085164265
+    second: pngimg.com - coin_PNG36871_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: prislapp 2.0_0
+      name: pngimg.com - coin_PNG36871_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 34
-        height: 31
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f743f807e989b6720800000000000000
-      internalID: 2840531796247917695
+      spriteID: 71359cf5c2cb21b80800000000000000
+      internalID: -8425465054085164265
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      prislapp 2.0_0: 2840531796247917695
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9de5258b12be22249bf768645086a192
+guid: 266886e812ef9aa478c9de6369a98421
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5018672346323979371
-    second: Mjukglass 2.0_0
+      213: -154732530273669678
+    second: Side6_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mjukglass 2.0_0
+      name: Side6_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 12
-        width: 63
-        height: 75
+        x: 27
+        y: 8
+        width: 329
+        height: 329
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6c87bea8e7e5a540800000000000000
-      internalID: 5018672346323979371
+      spriteID: 2dd27d165974addf0800000000000000
+      internalID: -154732530273669678
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Mjukglass 2.0_0: 5018672346323979371
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

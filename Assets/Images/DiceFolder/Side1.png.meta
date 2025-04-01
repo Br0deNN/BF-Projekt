@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3a17427da0da0fd4ca8ed9189458d836
+guid: 386ebba6733e4ad409b626da0df8f312
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5887259200627085943
-    second: donnut 2.0_0
+      213: -1962201580291615686
+    second: Side1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: donnut 2.0_0
+      name: Side1_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 28
-        width: 84
-        height: 53
+        x: 27
+        y: 8
+        width: 329
+        height: 329
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 772170a0d0fb3b150800000000000000
-      internalID: 5887259200627085943
+      spriteID: a3412051f0cd4c4e0800000000000000
+      internalID: -1962201580291615686
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      donnut 2.0_0: 5887259200627085943
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

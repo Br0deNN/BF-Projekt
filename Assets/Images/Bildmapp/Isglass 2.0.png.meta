@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c1179b096ecade142b86a8f3ff7c8d77
+guid: 950f28fc7be6dca43bcd743e24f2bf6a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4214146633307861576
-    second: Klubba 2.0_0
+      213: 2822721083944683121
+    second: Isglass 2.0_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Klubba 2.0_0
+      name: Isglass 2.0_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 5
-        width: 51
-        height: 79
+        x: 16
+        y: 6
+        width: 63
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84239b51908ab7a30800000000000000
-      internalID: 4214146633307861576
+      spriteID: 1764784ded15c2720800000000000000
+      internalID: 2822721083944683121
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Klubba 2.0_0: 4214146633307861576
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
