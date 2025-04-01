@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Isglass 2.0_0: 2822721083944683121
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

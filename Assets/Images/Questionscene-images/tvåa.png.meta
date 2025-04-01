@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "tv\xE5a_0": 8424203991132869311
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

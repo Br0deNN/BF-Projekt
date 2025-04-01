@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mjukglass 2.0_0: 5018672346323979371
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

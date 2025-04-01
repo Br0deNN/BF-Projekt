@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      number-two.svg.hi_0: -6509147328307547613
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

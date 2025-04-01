@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chocklad 2.0_0: 7676640638448816447
+      chocklad 2.0_1: 7460442998422577157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

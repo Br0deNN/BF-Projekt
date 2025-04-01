@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jordgubbe 2.0_0: 4558545193625233932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

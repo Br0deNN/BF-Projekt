@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      choklad_x-removebg-preview_0: -6233309629708418594
+      choklad_x-removebg-preview_1: 8554460756173038124
+      choklad_x-removebg-preview_2: -1365589840093386911
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
