@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1cdbcee17e386a14b938efaf196832d6
+guid: 475307ec7ebb5da4ab6363eeacb0a4c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5516982296841011673
-    second: final pyjamas_0
+      213: -1896675135670658362
+    second: NakedTeddyBear-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: final pyjamas_0
+      name: NakedTeddyBear-removebg-preview_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 512
-        height: 512
+        width: 448
+        height: 490
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72e3cacc4ddbf63b0800000000000000
-      internalID: -5516982296841011673
+      spriteID: 6cad80c5308ada5e0800000000000000
+      internalID: -1896675135670658362
       vertices: []
       indices: 
       edges: []

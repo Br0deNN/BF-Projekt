@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class Questions : MonoBehaviour
 {
+    [Header("Questions")] 
     [SerializeField] List<GameObject> activeQuestions = new List<GameObject>();
     List<GameObject> usedQuestions = new List<GameObject>();
 

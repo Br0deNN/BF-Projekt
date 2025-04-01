@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 38d64dc7cd3b24049a0b90d7dd023d0b
+guid: 6f0801b5ae618d24e88d994b3f3f30f1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 378553016829052586
-    second: "nalle med kl\xE4der_0"
+      213: 2051924650764159865
+    second: TeddyBearWithHat+Shirt-removebg-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "nalle med kl\xE4der_0"
+      name: TeddyBearWithHat+Shirt-removebg-preview_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1047
-        height: 1300
+        width: 448
+        height: 557
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa68fb096f3e04500800000000000000
-      internalID: 378553016829052586
+      spriteID: 97b4aaa2996e97c10800000000000000
+      internalID: 2051924650764159865
       vertices: []
       indices: 
       edges: []
