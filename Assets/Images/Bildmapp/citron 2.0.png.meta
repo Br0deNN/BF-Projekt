@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      citron 2.0_0: 938679015047142160
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
