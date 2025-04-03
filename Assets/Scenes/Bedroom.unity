@@ -11085,6 +11085,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &1752758792
 GameObject:
   m_ObjectHideFlags: 0
@@ -11650,6 +11651,8 @@ CanvasRenderer:
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 --- !u!114 &1806876319 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5265771835491146372, guid: 0c730d70093b6e4418cac9a85b33677f, type: 3}
@@ -11662,6 +11665,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
