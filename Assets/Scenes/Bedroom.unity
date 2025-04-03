@@ -11084,7 +11084,6 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 --- !u!1 &1752758792
 GameObject:
   m_ObjectHideFlags: 0
@@ -11648,8 +11647,6 @@ CanvasRenderer:
   m_GameObject: {fileID: 1835932770}
   m_CullTransparentMesh: 1
 =======
-=======
->>>>>>> Stashed changes
 --- !u!114 &1806876319 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5265771835491146372, guid: 0c730d70093b6e4418cac9a85b33677f, type: 3}
@@ -11661,9 +11658,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1096a538b1e479a4eb5a0b74cd13a763, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 --- !u!1 &1861926898
 GameObject:

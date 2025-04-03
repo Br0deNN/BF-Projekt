@@ -6,7 +6,6 @@ public class Click2DObject : MonoBehaviour
     public GameObject button;
 
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
     void Update()
@@ -18,13 +17,6 @@ public class Click2DObject : MonoBehaviour
             button.SetActive(true);
             this.gameObject.SetActive(false);
         }
-=======
-    public void OnMouseDown()
-    {
-        Debug.Log("Clicked");
-        button.SetActive(true);
-        this.gameObject.SetActive(false);
->>>>>>> Stashed changes
 =======
     public void OnMouseDown()
     {
