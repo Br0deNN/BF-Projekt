@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ManagerScript : MonoBehaviour
 {
-    [SerializeField] int starAmount;
+    public int starAmount;
     public bool questionActive;
 
     public void addStar()
