@@ -147,6 +147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   button: {fileID: 0}
+  script: {fileID: 0}
 --- !u!61 &-321351482091900295
 BoxCollider2D:
   m_ObjectHideFlags: 0
