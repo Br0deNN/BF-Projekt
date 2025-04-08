@@ -11,7 +11,7 @@ public class TeddyBear : MonoBehaviour
     private void Start()
     {
          
-        GetComponent<Image>().sprite = clothes[0];
+        GetComponent<SpriteRenderer>().sprite = clothes[0];
     }
 
   
@@ -21,28 +21,24 @@ public class TeddyBear : MonoBehaviour
     {
         if(script.starAmount == 1)
         {
-            GetComponent<Image>().sprite = clothes[1];
+            GetComponent<SpriteRenderer>().sprite = clothes[1];
+            Debug.Log("Fit1");
         }
         else if (script.starAmount == 2)
         {
-            GetComponent<Image>().sprite = clothes[2];
+            GetComponent<SpriteRenderer>().sprite = clothes[2];
+            Debug.Log("Fit2");
         }
         else if (script.starAmount == 4)
         {
-            GetComponent<Image>().sprite = clothes[3];
+            GetComponent<SpriteRenderer>().sprite = clothes[3];
+            Debug.Log("Fit3");
         }
         else if (script.starAmount == 5)
         {
-            transform.position = new Vector3(2.2f , -0.41f , 10);
-            transform.rotation = Quaternion.EulerAngles(new Vector3(52.7f , 0 , 70 ));
+            transform.position = new Vector3(2.2f , -0.41f , -3);
+            transform.rotation = Quaternion.Euler(new Vector3(52.7f , 0 , 70 ));
+            Debug.Log("Move");
         }
-
-
-
-
-
-
-        Debug.Log("clicked");
-
     }
 }

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DressedTeddyBear-removebg-preview_0: 8261520748000032824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
